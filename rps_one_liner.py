@@ -1,0 +1,1 @@
+import random;print(((f"Tie\nComputer chose {comp}" if user == comp else f"You Win\nComputer chose {comp}" if {"Rock":"Scissors","Scissors":"Paper","Paper":"Rock","rock":"Scissors","scissors":"Paper","paper":"Rock"}.get(user) == comp else f"You Lose\nComputer chose {comp}") if (user := input("RPS: ")) else "") if (comp := random.choice(["Rock","Paper","Scissors"])) else "")
