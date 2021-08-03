@@ -1,2 +1,2 @@
-# rock-paper-scissors
-Just Rock Paper Scissors
+# miscellanous
+a collection of miscellanous programs
